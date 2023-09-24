@@ -8,10 +8,6 @@ void main() {
   runApp(const MyApp());
 }
 
-//asdma.skdlasd
-//adasd,asdjk//
-//asdkmalskdma
-//askldjaksjd
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
